@@ -285,6 +285,9 @@ h6 {
 .navbar-mobile .dropdown>.dropdown-active {
   display: block;
 }
+.features{
+  background-color: #A8DF8E;
+}
 
 /*--------------------------------------------------------------
 # Hero Section
